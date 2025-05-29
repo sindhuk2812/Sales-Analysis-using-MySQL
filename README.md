@@ -30,4 +30,5 @@ Perform sales data analysis using SQL to uncover trends, identify high-performin
 - RANK() helps identify best-selling products effectively
 
 ✅ **Conclusion**
+
 SQL is a powerful tool for sales data analysis. With well-structured queries, valuable insights into performance, customer behavior, and product trends can be easily extracted to support business decisions.
